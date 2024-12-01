@@ -18,15 +18,15 @@
 
 1. Клонируйте репозиторий:
 
-   ```bash
-   git clone https://github.com/catinglasses/ttdm.git
-   ```
+```bash
+git clone https://github.com/catinglasses/ttdm.git
+```
 
 2. Установите необходимые зависимости после перехода в нужную директорию:
   
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```
 
 3. Запустите приложение
 
